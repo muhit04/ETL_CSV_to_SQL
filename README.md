@@ -62,4 +62,8 @@ It took the following time to finish our ETL:
 
     Total time: 7m45s
     Total records: 18,435,547
+
+### Local Dev Specs
+Intel 8th Gen Core i3
+8 GB RAM
  

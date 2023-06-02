@@ -25,7 +25,7 @@ if __name__ == "__main__":
     file_list = list_files(directory_path)
     
     """
-    DO NOT USE DATABASE CONNECTION. THIS WAY IN PRODUCTION.
+    DO NOT USE DATABASE CONNECTION THIS WAY IN PRODUCTION.
     FOR DEVELOPMENT PURPOSES ONLY.
     """
     conn = psycopg2.connect(
