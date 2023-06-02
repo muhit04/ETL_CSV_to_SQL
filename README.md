@@ -46,6 +46,7 @@ To run the sql commands directly from a file
     psql -U postgres -h localhost -p 5432 -f /path/to/sqlfile.sql
 
 It took the following time to finish our ETL:
+    
     Nasdaq: 
         Total time taken for the operation: 0:01:04.598601
         No. of Rows:  2,613,168
