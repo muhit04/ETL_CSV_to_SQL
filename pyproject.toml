@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "stockmarket-dataeng"
+version = "0.1.0"
+description = ""
+authors = ["Muhit Anik"]
+readme = "README.md"
+packages = [{include = "stockmarket_dataeng"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+psycopg2-binary = "^2.9.6"
+pandas = "^2.0.2"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
