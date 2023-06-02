@@ -1,10 +1,10 @@
-### Datasource: https://www.kaggle.com/datasets/paultimothymooney/stock-market-data
+#### Datasource: https://www.kaggle.com/datasets/paultimothymooney/stock-market-data
 
 Get a feel for the data
 There are two file types CSV and JSON. 
 We will be using CSV for our data source because JSON can sometimes be a little messy to deal with.
 
-### Folder structure
+##### Folder structure
 
     | Data\
     |   forbes200\
@@ -67,4 +67,7 @@ It took the following time to finish our ETL:
 Local Dev Specs
 Intel 8th Gen Core i3
 8 GB RAM
- 
+
+
+
+#### Source file: https://github.com/muhit04/ETL_CSV_to_SQL/
